@@ -18,6 +18,12 @@ Blockment is an innovative project that was developed and represented by an Iran
    git clone https://github.com/Blockment/Olympiad
    ```
 
+2. Explore the documentation and multimedia files contained within to gain a deeper understanding of the project’s contributions towards reducing inequalities via blockchain.
+
+## Awards
+
+- SDG 10 Bronze Medal at IBCOL 2022: Awarded for the project's innovative approach to utilizing blockchain technology to address inequality.
+
 ## Maintainers
 
 - [Iman Mohammadi](https://github.com/Imanm02)
