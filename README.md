@@ -1,5 +1,11 @@
 # Olympiad
 
+<div align="center">
+  <img 
+    style="width: 700px;"
+    src="https://github.com/Blockment/Olympiad/blob/main/Certificate.jpg">
+</div>
+
 ## Description
 Blockment is an innovative project that was developed and represented by an Iranian team at the International Blockchain Olympiad (IBCOL) 2022. The project focuses on leveraging blockchain technology to address challenges aligned with Sustainable Development Goal (SDG) 10, which seeks to reduce inequalities. Blockment's approach earned the team a prestigious SDG 10 Bronze Medal for its potential to make significant societal impacts through advanced technological solutions.
 
